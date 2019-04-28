@@ -3,5 +3,5 @@
 /public
 /node_modules
 
-!/keys/.gitkeep
-!/public/.gitkeep
+!keys/.gitkeep
+!public/.gitkeep

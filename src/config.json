@@ -1,12 +1,12 @@
 {
   "mongo":{
-    "user": "raideruser",
-    "pwd": "N4DGvUnVdq0t",
-    "db": "raider",
-    "host": "localhost",
-    "port": 27017
+    "user": "<uservalue>",
+    "pwd": "<uservalue>",
+    "db": "<uservalue>",
+    "host": "<uservalue>",
+    "port": "<uservalue>"
   },
   "wwwroot": "./public",
-  "host": "127.0.0.1",
-  "port": 8081
+  "host": "<uservalue>",
+  "port": "<uservalue>"
 }

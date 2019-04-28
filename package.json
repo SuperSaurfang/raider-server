@@ -18,16 +18,11 @@
   "author": "Stephan F.",
   "license": "MIT",
   "dependencies": {
-    "@types/bcrypt": "^3.0.0",
-    "@types/cors": "^2.8.4",
-    "@types/jsonwebtoken": "^8.3.2",
-    "@types/mongoose": "^5.3.26",
     "bcrypt": "^3.0.6",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.1.13",
-    "mongoose": "^5.5.2",
     "socket.io": "^2.2.0"
   },
   "devDependencies": {
@@ -35,6 +30,9 @@
     "@types/mongodb": "^3.1.22",
     "@types/node": "^11.11.1",
     "@types/socket.io": "^2.1.2",
+    "@types/bcrypt": "^3.0.0",
+    "@types/cors": "^2.8.4",
+    "@types/jsonwebtoken": "^8.3.2",
     "ts-node-dev": "^1.0.0-pre.32",
     "typescript": "^3.3.3333"
   }

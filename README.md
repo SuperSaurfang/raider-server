@@ -1,6 +1,6 @@
 # Raider Server
 
-This is the raider server for the raider client.
+This is the raider server for the [raider-client](https://github.com/SuperSaurfang/raider-client).
 
 ## Requirements:
 1. Node.js
